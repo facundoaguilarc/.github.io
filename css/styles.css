@@ -248,6 +248,11 @@ a {
   color: var(--bs-link-color);
   text-decoration: underline;
 }
+
+.project_name{
+  text-decoration: none;
+}
+
 a:hover {
   color: var(--bs-link-hover-color);
 }
